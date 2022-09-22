@@ -1,0 +1,32 @@
+main {
+    height: 800px;
+    background-image: url('/images/places/new-york-city.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+h2 {
+    width: auto;
+    position: relative;
+    top: 100px;
+    color: blue;
+    font-size: 72px;
+    padding: 50px;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px black;
+}
+
+article {
+    width: 60%;
+    padding: 0 50px;
+    margin: 50px auto;
+    border: medium solid black;
+    background-color: rgba(223, 218, 208, 0.85);
+}
+
+p {
+    color: blue;
+    font-size: 24px;
+}
